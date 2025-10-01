@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+asyncpg
+pydantic
+pydantic-settings
+python-dotenv
+qdrant-client
+sentence-transformers
+torch
+transformers
+streamlit
+python-multipart
