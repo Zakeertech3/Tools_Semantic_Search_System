@@ -327,19 +327,6 @@ docker ps
 - Supports 1000+ tools efficiently
 - Cosine similarity for vector matching
 
-## Future Enhancements
-
-- User authentication and authorization
-- Advanced filtering options
-- Batch tool import via CSV
-- Search analytics dashboard
-- API rate limiting
-- Caching layer for frequent queries
-
-## License
-
-MIT
-
 ## Acknowledgments
 
 - Sentence Transformers for embedding models
