@@ -121,7 +121,7 @@ tool-semantic-search/
 ### Step 1: Clone Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Zakeertech3/Tools_Semantic_Search_System.git
 ```
 
 ### Step 2: Create Virtual Environment
